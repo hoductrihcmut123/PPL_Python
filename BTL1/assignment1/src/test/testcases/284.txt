@@ -1,0 +1,7 @@
+
+        Class main{
+            var r, s: Int;
+            r = 2.0;
+            a[0] = s;
+        }
+        

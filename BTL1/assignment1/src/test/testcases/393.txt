@@ -1,0 +1,10 @@
+
+            Class Shape: Shape {
+                f() {
+                    Foreach(i In 1 .. 100) {
+                        Out.println(i);
+                        Out.println(Array(i, i + 1, i + 2));
+                    };
+                }
+            }
+        

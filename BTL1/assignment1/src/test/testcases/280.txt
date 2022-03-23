@@ -1,0 +1,7 @@
+
+        Class Shape {
+            $getNumOfShape() {
+                Var a:  = Array(1, 2, 3);
+            }
+        }
+        

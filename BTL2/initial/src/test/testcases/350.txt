@@ -1,0 +1,8 @@
+
+        Class Calculatior {
+            $calSum(){
+                Foreach (i In 1 .. 100 By 2) {
+                    Out.printInt(i);
+                }
+            }
+        }

@@ -1,0 +1,5 @@
+
+          Class main () {
+            putIntLn(4);
+         }
+        

@@ -1,0 +1,12 @@
+
+     class Person {
+    public:
+        string firstName;
+        string lastName;
+        int age;
+
+        void fullname() {
+            cout << this->firstName << ' ' << Person::lastName;
+        }
+};
+        

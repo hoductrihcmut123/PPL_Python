@@ -1,0 +1,12 @@
+
+        Class Calculatior {
+            $calSum(){
+                Var sum: Float = 0;
+                Foreach (counter In a.b .. f By 1){
+                    sum = sum + i;
+                    Break;
+                    Continue;
+                }
+                Return sum;
+            }
+        }

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Calculatior),[MethodDecl(Id($calSum),Static,[],Block([VarDecl(sum,FloatType,IntLit(0)),For(Id(counter),FieldAccess(Id(a),Id(b)),Id(f),IntLit(1),Block([AssignStmt(Id(sum),BinaryOp(+,Id(sum),Id(i))),Break,Continue])]),Return(Id(sum))]))])])

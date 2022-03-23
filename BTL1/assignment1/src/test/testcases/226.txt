@@ -1,0 +1,7 @@
+
+        Class Rectangle: Shape {
+            getArea() {
+                Return Shape.length * Shape::width;
+            }
+        }
+        

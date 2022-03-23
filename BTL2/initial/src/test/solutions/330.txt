@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Triangle),[MethodDecl(Id(checkTriangle),Instance,[param(Id(x),FloatType),param(Id(y),FloatType),param(Id(z),FloatType)],Block([If(BinaryOp(&&,BinaryOp(==,Id(x),Id(y)),BinaryOp(==,Id(y),Id(z))),Block([AssignStmt(Id(x),IntLit(5))]),Block([AssignStmt(Id(z),IntLit(0))]))]))])])

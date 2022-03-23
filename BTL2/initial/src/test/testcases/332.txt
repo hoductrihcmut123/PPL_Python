@@ -1,0 +1,17 @@
+
+        Class Triangle {
+            checkTriangle(x: Float; y: Float; z:Float){
+                If ((x == y) && (y == z)){
+                    x = 5;
+                }
+                Elseif ((x == y) || (x == z) || (y == z)){
+                    y = 8;
+                }
+                Elseif ((a == b) || (c == d) || (a == d)){
+                    z = 9;
+                }
+                Else{
+                    z = 0;
+                }
+            }
+        }

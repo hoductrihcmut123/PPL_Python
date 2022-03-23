@@ -1,0 +1,6 @@
+
+        Class Calculatior {
+            $calSum(){
+                Var a : Int = 0X2B;
+            }
+        }

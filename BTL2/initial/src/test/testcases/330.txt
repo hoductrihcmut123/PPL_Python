@@ -1,0 +1,11 @@
+
+        Class Triangle {
+            checkTriangle(x: Float; y: Float; z:Float){
+                If ((x == y) && (y == z)){
+                    x = 5;
+                }
+                Else{
+                    z = 0;
+                }
+            }
+        }

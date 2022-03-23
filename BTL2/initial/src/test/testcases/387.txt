@@ -1,0 +1,16 @@
+
+                ##
+            Constructor with Return
+        ##
+        Class Shape {
+            Constructor(x, y: Int ){
+                Self.x = x;
+                Self.y = y;
+                Return Self.x * Self.y;
+            }
+            $getNumOfShape() {
+                Val x: Int = 1;
+                Val y: Int = 2;
+                Return x*y;
+            }
+        }

@@ -1,0 +1,6 @@
+
+        Class Shape {
+            $getNumOfShape() {
+                Return $numOfShape;
+            }
+        }

@@ -1,0 +1,8 @@
+
+            Class Test{
+                Var x, y: Float = 0, 0;
+                
+                compare(x, y: Float){
+                    Return (Self.x == x) && (Self.y == y);
+                }
+                }

@@ -1,0 +1,6 @@
+
+        Class Calculatior {
+            $calSum(){
+                r = 2.0;
+            }
+        }

@@ -1,0 +1,6 @@
+
+        Class Calculatior {
+            $calSum(){
+                Var r, s: Int;
+            }
+        }

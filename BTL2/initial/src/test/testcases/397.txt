@@ -1,0 +1,8 @@
+
+        Class Shape {
+            $getNumOfShape() {
+                Val x: Int = "abc";
+                Val y: Int = 2;
+                Return x*y;
+            }
+        }

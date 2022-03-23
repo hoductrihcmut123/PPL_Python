@@ -1,0 +1,19 @@
+
+        Class SquareTriagnle {
+            getArea() {
+                Self.area = (self.x * self.y)/2;
+                If (area < 0){
+                    print("Nonsense");
+                }
+                Elseif ((0< area) && (area<=10)){
+                    print("Small");
+                }
+                Elseif ((10 < area) && (area <= 20)){
+                    print("Medium");
+                }
+                Else{
+                    print("Large");
+                }
+            }
+        }
+        

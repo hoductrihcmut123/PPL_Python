@@ -1,0 +1,10 @@
+
+        Class main{
+            m(){
+            Var r, s: Int;
+            r = 2.0;
+            a[0] = s;
+             var a, b: Array[Int, 5] = "test85", 10;
+             }
+        }
+        

@@ -1,0 +1,5 @@
+
+        Class Shape {
+            Destructor(x, y: Int){
+            }
+        }

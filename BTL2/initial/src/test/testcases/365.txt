@@ -1,0 +1,19 @@
+
+        Class Shape {
+            Val $numOfShape: Int = 0;
+            Val immutableAttribute: Int = 0;
+            Var length, width: Int;
+            $getNumOfShape() {
+                Return $numOfShape;
+            }
+        }
+        CLass Square: Shape {
+            getArea() {
+                Return Self.length * Self.width;
+            }
+        }
+        Class Program {
+            main() {
+                Out.printInt(Shape::$numOfShape);
+            }
+        }

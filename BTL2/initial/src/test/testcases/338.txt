@@ -1,0 +1,11 @@
+
+        Class Calculatior {
+            $calSum(){
+                Var sum: Float = 0;
+                Foreach (counter In 4 .. 20 By 1){
+                    sum = sum + i;
+                    Break;
+                    Continue;
+                }
+            }
+        }

@@ -1,0 +1,5 @@
+
+        Class Shape {
+            Var length, width: Int = 0, 0;
+            }
+        }

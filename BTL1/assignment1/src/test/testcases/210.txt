@@ -1,0 +1,15 @@
+
+        Class Triangle {
+            checkTriangle(x: Float; y: Float; z:Float){
+                If ((x == y) && (y == z)){
+                    print("equilateral triangle");
+                }
+                Elseif ((x == y) || (x == z) || (y == z)){
+                    print("isosceles triangle");
+                }
+                Else{
+                    print("Triagle");
+                }
+            }
+        }
+        

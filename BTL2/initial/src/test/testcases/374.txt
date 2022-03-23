@@ -1,0 +1,21 @@
+
+        Class Shape {
+            Val $numOfShape: Int = 0;
+            Val immutableAttribute: Int = 0;
+            Var length, width, height: Int;
+            $getNumOfShape() {
+                Return $numOfShape;
+            }
+        }
+        CLass Triangle: Shape {
+            getArea() {
+                Return Self.width * Self.height / 2;
+            }
+        }
+        CLass RightScalene : Triangle {
+        }
+        Class Program {
+            main() {
+                Out.printInt(Shape::$numOfShape);
+            }
+        }

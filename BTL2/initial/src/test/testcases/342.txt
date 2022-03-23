@@ -1,0 +1,6 @@
+
+        Class Calculatior {
+            $calSum(){
+                Shape :: $getNumofShape();
+            }
+        }

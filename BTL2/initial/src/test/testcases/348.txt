@@ -1,0 +1,6 @@
+
+        Class Calculatior {
+            $calSum(){
+                s = r * r * Self.myPI;
+            }
+        }

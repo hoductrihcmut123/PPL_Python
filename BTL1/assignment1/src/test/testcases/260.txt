@@ -1,0 +1,9 @@
+
+    Class Shape {
+        Va $numOfShape: Int = 0;
+        Val immutableAttribute: Int = 0;
+        Var length, width: Int;
+    $getNumOfShape() {
+        Return $numOfShape;
+    }
+        

@@ -1,0 +1,20 @@
+
+        Class Shape {
+            Val $numOfShape: Int = 0;
+            Var length, width, height: Int;
+            Var radius: Float;
+            $getNumOfShape() {
+                Return $numOfShape;
+            }
+        }
+        CLass Circle: Shape {
+            getArea() {
+                Return 3.14 * Self.radius * Self.radius;
+            }
+        }
+        }
+        Class Program {
+            main() {
+                Out.printInt(Shape::$numOfShape);
+            }
+        }

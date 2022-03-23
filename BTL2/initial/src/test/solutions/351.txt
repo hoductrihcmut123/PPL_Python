@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Calculatior),[MethodDecl(Id($calSum),Static,[],Block([VarDecl(a,IntType,IntLit(10))]))])])
